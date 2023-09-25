@@ -6,7 +6,7 @@ cffi==1.15.1
 Eel==0.14.0
 flake8==5.0.4
 future==0.18.2
-gevent==21.12.0
+gevent==23.9.1
 gevent-websocket==0.10.1
 greenlet==1.1.3
 mccabe==0.7.0
