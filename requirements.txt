@@ -14,7 +14,7 @@ pefile==2022.5.30
 pycodestyle==2.9.1
 pycparser==2.21
 pyflakes==2.5.0
-pyinstaller==5.3
+pyinstaller==5.13.1
 pyinstaller-hooks-contrib==2022.10
 pyparsing==3.0.9
 pywin32-ctypes==0.2.0
